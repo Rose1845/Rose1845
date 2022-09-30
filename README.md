@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm Rose 
-## JS FrontEnd Developer
+
+## FrontEnd Developer
+
+# HTML||CSS||JS||BOOTSTRAP||REACT||NEXT JS
 
 
 
