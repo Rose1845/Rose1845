@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Rose 
-## JS FronteEnd Developer
+## JS FrontEnd Developer
 
 
 
