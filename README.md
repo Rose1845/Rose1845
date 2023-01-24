@@ -6,7 +6,6 @@ Front-end Developer
 
 * 🌍  I'm based in Nakuru,Kenya
 * ✉️  You can contact me at [odhiamborose466@gmail.com](mailto:odhiamborose466@gmail.com)
-* 🧠  I'm learning Django
 * 🤝  I'm open to collaborating on Frontend
 <!-- 
 <a href="https://www.twitter.com/nyaugenya001" target="_blank" rel="noreferrer"><img
