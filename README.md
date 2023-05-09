@@ -7,7 +7,6 @@ Front-end Developer
 * 🌍  I'm based in Nakuru,Kenya
 * ✉️  You can contact me at [odhiamborose466@gmail.com](mailto:odhiamborose466@gmail.com)
 * 🤝  I'm open to collaborating on Frontend
-<!-- 
 <a href="https://www.twitter.com/nyaugenya001" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/nyaugenya001?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/Rose1845" target="_blank" rel="noreferrer"><img
@@ -47,6 +46,6 @@ src="https://img.shields.io/github/followers/Rose1845?logo=github&style=for-the-
 
 <a href="http://www.github.com/Rose1845"><img src="https://activity-graph.herokuapp.com/graph?username=Rose1845&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Rose1845" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rose1845&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+<a href="https://github.com/Rose1845" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rose1845&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
