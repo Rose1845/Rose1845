@@ -32,7 +32,8 @@ src="https://img.shields.io/github/followers/Rose1845?logo=github&style=for-the-
 
 <p align="left"> <a href="https://www.github.com/Rose1845" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rose-atieno-odhiambo5038b420a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/nyaugenya001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<figure><embed src="https://wakatime.com/share/@nyaugenya/3de3d09b-5930-414e-bdec-cf31ed350b65.svg"></embed></figure>
+### Wakatime Stats
+<embed src="https://wakatime.com/share/@nyaugenya/3de3d09b-5930-414e-bdec-cf31ed350b65.svg"></embed>
 
 
 
