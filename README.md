@@ -34,6 +34,7 @@ src="https://img.shields.io/github/followers/Rose1845?logo=github&style=for-the-
 
 ### Wakatime Stats
 <embed src="https://wakatime.com/share/@nyaugenya/3de3d09b-5930-414e-bdec-cf31ed350b65.svg"></embed>
+![stats](https://wakatime.com/share/@nyaugenya/31317dce-84da-4eb8-a35f-9b20f8a0c895.png)
 
 
 
