@@ -1,7 +1,7 @@
 Hi 👋 My name is Rose
 =====================
 
-Front-end Developer
+Developer
 -------------------
 
 * 🌍  I'm based in Nakuru,Kenya
