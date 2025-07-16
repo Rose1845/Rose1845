@@ -4,7 +4,7 @@ Hi 👋 My name is Rose
 Developer
 -------------------
 
-* 🌍  I'm based in Nakuru,Kenya
+* 🌍  I'm based in Nairobi,Kenya
 * ✉️  You can contact me at [odhiamborose466@gmail.com](mailto:odhiamborose466@gmail.com)
 * 🤝  I'm open to collaborating on Frontend and Backend(using React.js/TS and Java/Springboot)
 <a href="https://www.twitter.com/nyaugenya001" target="_blank" rel="noreferrer"><img
