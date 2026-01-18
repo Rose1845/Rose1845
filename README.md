@@ -7,7 +7,8 @@ Developer
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [odhiamborose466@gmail.com](mailto:odhiamborose466@gmail.com)
 * 🤝  I am interested in learning Data & AI.
-* I’m looking to collaborate on Web, Data
+*  I’m looking to collaborate on Web, Data
+  
 <a href="https://www.twitter.com/nyaugenya001" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/nyaugenya001?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/Rose1845" target="_blank" rel="noreferrer"><img
