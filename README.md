@@ -1,13 +1,9 @@
 Hi 👋 I'm ROSE
 =====================
 
-Developer
--------------------
-
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [odhiamborose466@gmail.com](mailto:odhiamborose466@gmail.com)
-* 🤝  I am interested in Data & AI.
-*  I’m looking to collaborate on Web
+* 🤝  Passionate about Data & AI.
   
 <a href="https://www.twitter.com/nyaugenya001" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/nyaugenya001?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
